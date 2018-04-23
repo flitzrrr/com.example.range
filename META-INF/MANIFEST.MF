@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Range
+Bundle-SymbolicName: com.example.range;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: EXAMPLE
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.compare.core
+Automatic-Module-Name: com.example.range
+Bundle-RequiredExecutionEnvironment: JavaSE-9
